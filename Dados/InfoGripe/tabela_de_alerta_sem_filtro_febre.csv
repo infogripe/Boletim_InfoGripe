@@ -1,0 +1,75 @@
+UF;Unidade da Federação;dado;escala;Ano epidemiológico;Semana epidemiológica;casos estimados;média móvel;nível semanal;nível por média móvel
+0;Brasil;srag;incidência;2025;53;0,873390939432086;0,8579792280184259;;Amarelo
+1;Região Norte;srag;incidência;2025;53;1,20736447652878;1,1158874431430523;;Vermelho
+2;Região Nordeste;srag;incidência;2025;53;0,53105552438807;0,524277234454488;;Vermelho
+3;Região Sudeste;srag;incidência;2025;53;0,819583146727122;0,7935625542656797;;Amarelo
+4;Região Sul;srag;incidência;2025;53;1,00284856900376;1,0412474968505834;;Amarelo
+5;Região Centro-oeste;srag;incidência;2025;53;1,45601629995746;1,4361137469684089;;Vermelho
+11;Rondônia;srag;incidência;2025;53;0,799109563629099;0,6840760292922683;;Amarelo
+12;Acre;srag;incidência;2025;53;5,08835648347076;4,818123372584687;;Vermelho
+13;Amazonas;srag;incidência;2025;53;1,8511593811204;1,6598554914708534;;Vermelho
+14;Roraima;srag;incidência;2025;53;2,70719518335833;2,057055969947311;;Vermelho
+15;Pará;srag;incidência;2025;53;0,539535558607567;0,4814084879879279;;Amarelo
+16;Amapá;srag;incidência;2025;53;1,85984920342659;1,9805078625008383;;Vermelho
+17;Tocantins;srag;incidência;2025;53;0,315087855946874;0,398149433444189;;Vermelho
+21;Maranhão;srag;incidência;2025;53;0,512951235008466;0,4605646069849078;;Vermelho
+22;Piauí;srag;incidência;2025;53;0,206822360569967;0,1968565416742022;;Amarelo
+23;Ceará;srag;incidência;2025;53;0,712063521244739;0,8762408350618452;;Vermelho
+24;Rio Grande do Norte;srag;incidência;2025;53;0,376240580961764;0,3663329399004531;;Amarelo
+25;Paraíba;srag;incidência;2025;53;1,12859553729312;0,951308076288132;;Vermelho
+26;Pernambuco;srag;incidência;2025;53;0,397406109407784;0,3100477325325391;;Verde
+27;Alagoas;srag;incidência;2025;53;0,155238620388171;0,1138407553324426;;Vermelho
+28;Sergipe;srag;incidência;2025;53;1,04373919566848;1,2452618132828075;;Vermelho
+29;Bahia;srag;incidência;2025;53;0,477442297231769;0,4458906281386993;;Vermelho
+31;Minas Gerais;srag;incidência;2025;53;1,10314184613873;1,055529494210895;;Vermelho
+32;Espírito Santo;srag;incidência;2025;53;0,605788331741322;0,5802579246033884;;Vermelho
+33;Rio de Janeiro;srag;incidência;2025;53;0,598018515001585;0,5554248184658402;;Vermelho
+35;São Paulo;srag;incidência;2025;53;0,811600223697854;0,7792794228968615;;Amarelo
+41;Paraná;srag;incidência;2025;53;1,32037248969437;1,2370999467829424;;Amarelo
+42;Santa Catarina;srag;incidência;2025;53;0,781730756781331;0,8626139507852587;;Amarelo
+43;Rio Grande do Sul;srag;incidência;2025;53;0,801191959985269;0,9139508549233866;;Amarelo
+50;Mato Grosso do Sul;srag;incidência;2025;53;2,66700311936788;2,30747436969528;;Amarelo
+51;Mato Grosso;srag;incidência;2025;53;0,436607314610756;0,5111993816801143;;Vermelho
+52;Goiás;srag;incidência;2025;53;0,781289043404513;0,7745744665784109;;Vermelho
+53;Distrito Federal;srag;incidência;2025;53;3,23667898050618;3,4654141179788627;;Vermelho
+1001;Regional Norte;srag;incidência;2025;53;1,27799810658771;1,1704587043313548;;Vermelho
+1002;Regional Leste;srag;incidência;2025;53;0,589510859669902;0,5783827073928014;;Amarelo
+1003;Regional Centro;srag;incidência;2025;53;1,00586979768161;0,9946575847718871;;Vermelho
+1004;Regional Sul;srag;incidência;2025;53;0,93130557471115;0,9208505332747672;;Amarelo
+0;Brasil;srag;incidência;2026;1;0,844023870544926;;;
+1;Região Norte;srag;incidência;2026;1;1,24674176454426;;;
+2;Região Nordeste;srag;incidência;2026;1;0,522948906793614;;;
+3;Região Sudeste;srag;incidência;2026;1;0,705495736519631;;;
+4;Região Sul;srag;incidência;2026;1;1,02861936549932;;;
+5;Região Centro-oeste;srag;incidência;2026;1;1,40791036449593;;;
+11;Rondônia;srag;incidência;2026;1;0,853563742433158;;;
+12;Acre;srag;incidência;2026;1;4,95610468194198;;;
+13;Amazonas;srag;incidência;2026;1;2,04085095688393;;;
+14;Roraima;srag;incidência;2026;1;1,8396556164686;;;
+15;Pará;srag;incidência;2026;1;0,422551746600514;;;
+16;Amapá;srag;incidência;2026;1;2,34581512754444;;;
+17;Tocantins;srag;incidência;2026;1;0,501255017249438;;;
+21;Maranhão;srag;incidência;2026;1;0,469780514273;;;
+22;Piauí;srag;incidência;2026;1;0,147378852372667;;;
+23;Ceará;srag;incidência;2026;1;1,04276284423133;;;
+24;Rio Grande do Norte;srag;incidência;2026;1;0,317576074626913;;;
+25;Paraíba;srag;incidência;2026;1;0,812847193334271;;;
+26;Pernambuco;srag;incidência;2026;1;0,281743755932271;;;
+27;Alagoas;srag;incidência;2026;1;0,0310450252209785;;;
+28;Sergipe;srag;incidência;2026;1;1,25690485013577;;;
+29;Bahia;srag;incidência;2026;1;0,409685447543069;;;
+31;Minas Gerais;srag;incidência;2026;1;0,834097884229171;;;
+32;Espírito Santo;srag;incidência;2026;1;0,674586309945426;;;
+33;Rio de Janeiro;srag;incidência;2026;1;0,452819410394295;;;
+35;São Paulo;srag;incidência;2026;1;0,701617496850517;;;
+41;Paraná;srag;incidência;2026;1;1,13783498782349;;;
+42;Santa Catarina;srag;incidência;2026;1;0,902234908046023;;;
+43;Rio Grande do Sul;srag;incidência;2026;1;0,908013189692768;;;
+50;Mato Grosso do Sul;srag;incidência;2026;1;2,51161025782358;;;
+51;Mato Grosso;srag;incidência;2026;1;0,506286816544441;;;
+52;Goiás;srag;incidência;2026;1;0,693792809184429;;;
+53;Distrito Federal;srag;incidência;2026;1;3,3222635511808;;;
+1001;Regional Norte;srag;incidência;2026;1;1,29230667337358;;;
+1002;Regional Leste;srag;incidência;2026;1;0,572257297008665;;;
+1003;Regional Centro;srag;incidência;2026;1;0,982497136479799;;;
+1004;Regional Sul;srag;incidência;2026;1;0,848313728325622;;;
