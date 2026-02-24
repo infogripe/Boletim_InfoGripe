@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Dados/InfoGripe/capitais_amostras_sem_filtro_febre.csv filter=lfs diff=lfs merge=lfs -text
+Dados/InfoGripe/estados_amostras_sem_filtro_febre.csv filter=lfs diff=lfs merge=lfs -text
