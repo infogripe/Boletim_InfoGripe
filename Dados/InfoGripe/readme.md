@@ -99,10 +99,10 @@ Arquivos com prefixo `_sem_filtro_sintomas.csv`
 | mediana_da_estimativa | Mediana da estimativa |
 | Q1 | Primeiro quartil da distribuição |
 | Q3 | Terceiro quartil da distribuição |
-| IC80I | Limite inferior do intervalo de confiança de 80% |
-| IC80S | Limite superior do intervalo de confiança de 80% |
-| IC90I | Limite inferior do intervalo de confiança de 90% |
-| IC90S | Limite superior do intervalo de confiança de 90% |
+| IC80I | Limite inferior do intervalo de credibilidade de 80% |
+| IC80S | Limite superior do intervalo de credibilidade  de 80% |
+| IC90I | Limite inferior do intervalo de credibilidade de 90% |
+| IC90S | Limite superior do intervalo de credibilidade de 90% |
 | LI | Limite inferior |
 | LS | Limite superior |
 | media_movel | Média móvel |
@@ -248,12 +248,12 @@ Files with prefix `_sem_filtro_sintomas.csv`
 |----------|-------------|
 | Q1 | First quartile of the distribution |
 | Q3 | Third quartile of the distribution |
-| IC80I | Lower bound of the 80% confidence interval |
-| IC80S | Upper bound of the 80% confidence interval |
-| IC90I | Lower bound of the 90% confidence interval |
-| IC90S | Upper bound of the 90% confidence interval |
-| IC95I | Lower bound of the 95% confidence interval |
-| IC95S | Upper bound of the 95% confidence interval |
+| IC80I | Lower bound of the 80% credible interval |
+| IC80S | Upper bound of the 80% credible interval |
+| IC90I | Lower bound of the 90% credible interval |
+| IC90S | Upper bound of the 90% credible interval |
+| IC95I | Lower bound of the 95% credible interval |
+| IC95S | Upper bound of the 95% credible interval |
 | Casos semanais reportados até a última atualização | Number of reported cases in the system up to the latest update |
 | casos estimados | Estimated number of recent cases (nowcasting) |
 | média móvel | 3-week moving average of cases |
@@ -281,10 +281,10 @@ Files with prefix `_sem_filtro_sintomas.csv`
 | mediana_da_estimativa | Median estimate |
 | Q1 | First quartile of the distribution |
 | Q3 | Third quartile of the distribution |
-| IC80I | Lower bound of the 80% confidence interval |
-| IC80S | Upper bound of the 80% confidence interval |
-| IC90I | Lower bound of the 90% confidence interval |
-| IC90S | Upper bound of the 90% confidence interval |
+| IC80I | Lower bound of the 80% credible interval |
+| IC80S | Upper bound of the 80% credible interval |
+| IC90I | Lower bound of the 90% credible interval |
+| IC90S | Upper bound of the 90% credible interval |
 | LI | Lower limit |
 | LS | Upper limit |
 | media_movel | Moving average |
