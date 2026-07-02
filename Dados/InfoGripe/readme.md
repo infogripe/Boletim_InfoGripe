@@ -324,7 +324,7 @@ Files:
 |----------|-------------|
 | SG_UF_NOT | Code of the reporting Federal Unit |
 | fx_etaria | Age group |
-| SRAG | Severe Acute Respiratory Syndrome (total) |
+| SRAG | Severe Acute Respiratory Infections (total) |
 | SARS2 | SARS-CoV-2 |
 | VSR | Respiratory syncytial virus |
 | FLU | Influenza (general) |
