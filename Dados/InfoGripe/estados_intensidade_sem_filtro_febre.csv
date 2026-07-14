@@ -1,27 +1,27 @@
 intensidade;CO_UF;DS_UF_SIGLA;ano;semana_epi
-Alerta;53;DF;2026;26
-Risco;52;GO;2026;26
-Alto risco;51;MT;2026;26
-Alto risco;50;MS;2026;26
-Alto risco;43;RS;2026;26
-Alto risco;42;SC;2026;26
-Risco;41;PR;2026;26
-Risco;35;SP;2026;26
-Risco;33;RJ;2026;26
-Alerta;32;ES;2026;26
-Alto risco;31;MG;2026;26
-Alerta;29;BA;2026;26
-Alerta;28;SE;2026;26
-Alerta;27;AL;2026;26
-Baixo risco;26;PE;2026;26
-Alerta;25;PB;2026;26
-Segurança;23;CE;2026;26
-Segurança;22;PI;2026;26
-Risco;21;MA;2026;26
-Segurança;17;TO;2026;26
-Risco;16;AP;2026;26
-Alto risco;15;PA;2026;26
-Alto risco;14;RR;2026;26
-Risco;13;AM;2026;26
-Risco;12;AC;2026;26
-Segurança;11;RO;2026;26
+Alerta;53;DF;2026;27
+Risco;52;GO;2026;27
+Alto risco;51;MT;2026;27
+Alto risco;50;MS;2026;27
+Alto risco;43;RS;2026;27
+Risco;41;PR;2026;27
+Alerta;35;SP;2026;27
+Risco;33;RJ;2026;27
+Alerta;32;ES;2026;27
+Alto risco;31;MG;2026;27
+Alerta;29;BA;2026;27
+Alerta;28;SE;2026;27
+Alerta;27;AL;2026;27
+Baixo risco;26;PE;2026;27
+Alerta;25;PB;2026;27
+Segurança;24;RN;2026;27
+Alerta;23;CE;2026;27
+Segurança;22;PI;2026;27
+Alto risco;21;MA;2026;27
+Segurança;17;TO;2026;27
+Alerta;16;AP;2026;27
+Risco;15;PA;2026;27
+Alto risco;14;RR;2026;27
+Risco;13;AM;2026;27
+Risco;12;AC;2026;27
+Baixo risco;11;RO;2026;27
