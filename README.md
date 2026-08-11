@@ -1,6 +1,6 @@
-# Repositório do Grupo de Métodos Analíticos em Vigilância Epidemiológica **MAVE**
+# Repositório do Grupo InfoGripe
 
-Neste repositório estão publicados relatórios técnicos produzidos pelo MAVE.
+Neste repositório estão publicados relatórios técnicos produzidos pelo Grupo InfoGripe (antigo MAVE).
 
 ## Links relevantes:
 - Este repositório: http://bit.ly/mave-repo-fiocruz e http://bit.ly/mave-repo
@@ -21,16 +21,23 @@ Neste repositório estão publicados relatórios técnicos produzidos pelo MAVE.
 ## Sobre o Grupo
 
 
-## Membros 
+## Membros atuais
+
+* Leonardo S Bastos - PROCC - Fiocruz
+* Tatiana Portela - PROCC - Fiocruz
+* Laís Picinini Freitas - PROCC - Fiocruz
+* Heloisa Ferreira Santos - INI - Fiocruz
+* Paola Resende - IOC - Fiocruz
+* Marcelo F. C. Gomes - CGCOVID - MS
+
+## Membros antigos
+
 
 * Claudia Torres Codeço - PROCC-Fiocruz
 * Daniel C.P. Camara - PROCC-Fiocruz
 * Daniel Villela - PROCC- Fiocruz
 * Flávio Codeço Coelho - EMAp-FGV
-* Leonardo S Bastos - PROCC - Fiocruz
-* Laís Picinini Freitas - CReSP - ESPUM, Montreal, Canadá
 * Luiz Max Carvalho - EMAp-FGV
-* Marcelo F. C. Gomes - PROCC-Fiocruz
 * Oswaldo G. Cruz  - PROCC-Fiocruz
 * Raquel M. Lana - BSC, Barcelona, Espanha
 * Tatiana P. Portella - PROCC-Fiocruz
