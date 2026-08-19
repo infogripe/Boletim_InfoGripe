@@ -26,7 +26,7 @@ Neste repositório estão publicados relatórios técnicos produzidos pelo Grupo
 * Leonardo S Bastos - PROCC - Fiocruz
 * Tatiana Portela - PROCC - Fiocruz
 * Laís Picinini Freitas - PROCC - Fiocruz
-* Heloisa Ferreira Santos - INI - Fiocruz
+* Heloisa Ferreira - INI - Fiocruz
 * Paola Resende - IOC - Fiocruz
 * Marcelo F. C. Gomes - CGCOVID - MS
 
