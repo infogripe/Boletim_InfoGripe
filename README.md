@@ -2,13 +2,6 @@
 
 Neste repositório estão publicados relatórios técnicos produzidos pelo Grupo InfoGripe (antigo MAVE).
 
-## Links relevantes:
-- Este repositório: https://github.com/infogripe/Boletim_InfoGripe
-- InfoGripe:
-  - Site: -
-  - Boletins do InfoGripe:  [Boletins do InfoGripe]
-  - Dados processados: [Dados/InfoGripe]
-
 
 ## Membros atuais
 
